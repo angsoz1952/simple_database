@@ -1,0 +1,38 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# SQLite / database files
+*.db
+*.sqlite3
+name.db
+
+# Logs
+*.log
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
